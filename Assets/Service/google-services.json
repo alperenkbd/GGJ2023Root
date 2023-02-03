@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "928340073336",
+    "project_id": "ggj2023root",
+    "storage_bucket": "ggj2023root.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928340073336:android:1f39bc5729db6d5cb3468d",
+        "android_client_info": {
+          "package_name": "com.AlperenGames.GGJRootGame2023"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928340073336-lfrla393oc8ps4dkde4oivk5n9rmp2ci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtfGaNzMh8Z0Hymd4DF005ZJq5BKfEuoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928340073336-lfrla393oc8ps4dkde4oivk5n9rmp2ci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
